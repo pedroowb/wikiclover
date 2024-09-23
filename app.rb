@@ -4,11 +4,11 @@ get '/' do
   erb :home
 end
 
-get '/' do
+get '/personagens' do
   erb :character
 end
 
-get '/' do
+get '/arcos' do
   erb :arcs
 end
 

@@ -1,0 +1,25 @@
+/* Arcs page styles */
+.arcs-page {
+	background-image: url('arcs-background.jpg'); /* Add a background image for the Arcs page */
+	background-size: cover;
+	background-position: center;
+}
+
+.arcs-page ul {
+	list-style: disc;
+	margin: 20px;
+	padding: 20px;
+}
+
+.arcs-page li {
+	margin-bottom: 10px;
+}
+
+.arcs-page a {
+	color: #337ab7;
+	text-decoration: none;
+}
+
+.arcs-page a:hover {
+	color: #23527c;
+}

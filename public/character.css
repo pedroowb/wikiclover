@@ -1,0 +1,25 @@
+/* Characters page styles */
+.characters-page {
+	background-image: url('characters-background.jpg'); /* Add a background image for the Characters page */
+	background-size: cover;
+	background-position: center;
+}
+
+.characters-page ul {
+	list-style: circle;
+	margin: 20px;
+	padding: 20px;
+}
+
+.characters-page li {
+	margin-bottom: 10px;
+}
+
+.characters-page a {
+	color: #337ab7;
+	text-decoration: none;
+}
+
+.characters-page a:hover {
+	color: #23527c;
+}
